@@ -17,8 +17,8 @@ read -p 'Enter index: ' enteredIndex
 index=0
 for file in exercise*/*.java; do
 	if [[ "$index" == "$enteredIndex" ]]; then 
-		echo "javac $file"
-		javac $file
+		echo "javac *.java"
+		javac *.java
 		class=$(echo $file | sed 's/.java//' | sed 's/\//./')
 		echo "java -ea $class"
 		echo -e "\U0001f680 \U0001f648 \U0001f649 \U0001f64A \U0001f680"

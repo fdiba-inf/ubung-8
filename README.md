@@ -15,13 +15,13 @@ Das Literal _1e-4_ ist gleich zum Literal _0.0001_.
 * **Definition vom Copy-Konstruktor** Die Attribute kopieren ihre Werte von einem anderen Punkt.
 * **Definition einer Methode _initialize_ zur Eingabe** Sie soll die Eingabe der Attribute in der Konsole organisieren.
 * **Definition einer Methode _translate_ zur Translation** Sie soll die Attribute des Punktes durch Translation ändern.
-* **Definition einer Methode _createNewTranslatedPoint_ zur Erstellung eines Punktes durch Translation** Sie soll einen neuen Punkt durch Translation relativ zum Punkt erstellen.
-* **Definition einer Methode _equals_ zum Vergleich zu einem anderen Punkt** Sie vergleicht, ob die Attribute des Punktes und die Attribute eines anderen Punktes gleich sind.
+* **Definition einer Methode _createNewTranslatedPoint_ zur Erstellung eines Punktes durch Translation** Sie soll einen neuen Punkt durch Translation relativ zu diesem Punkt erstellen.
+* **Definition einer Methode _equals_ zum Vergleich zu einem anderen Punkt** Sie vergleicht, ob die Attribute dieses Punktes und die Attribute eines anderen Punktes gleich sind.
 * **Definition einer Methode _toString_** Sie hat die Aufgabe der Punkt als String darzustellen z.B. _(2.6, 9.1)_.
 ## Aufgabe 2. Demo
 Betrachten Sie die Klasse _PointDemo_ im Paket _exercise8_.
 Sie enthalten eine main-Methode, die alle Konstruktoren und Methoden der _Point_ Klasse überprüft.
-Das folgende wird in der Konsole ausgegeben, wenn für Punkt 3 die Werte _6_ und _9_ eingegeben werden:
+Ausgabe, wenn für Punkt 3 die Werte _6_ und _9_ in der Konsole eingegeben werden:
 ``` 
 
 ``` 
