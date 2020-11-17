@@ -15,6 +15,8 @@ Das Literal _1e-4_ ist gleich zum Literal _0.0001_.
 * **Definition vom Copy-Konstruktor** Die Attribute kopieren ihre Werte von einem anderen Punkt.
 * **Definition einer Methode _initialize_ zur Eingabe** Sie soll die Eingabe der Attribute in der Konsole organisieren.
 * **Definition einer Methode _translate_ zur Translation** Sie soll die Attribute des Punktes durch Translation ändern.
+<br>
+<img src="https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise8/translation.png" width="200">
 * **Definition einer Methode _createNewTranslatedPoint_ zur Erstellung eines Punktes durch Translation** Sie soll einen neuen Punkt durch Translation relativ zu diesem Punkt erstellen.
 * **Definition einer Methode _equals_ zum Vergleich zu einem anderen Punkt** Sie vergleicht, ob die Attribute dieses Punktes und die Attribute eines anderen Punktes gleich sind.
 * **Definition einer Methode _toString_** Sie hat die Aufgabe der Punkt als String darzustellen z.B. _(2.6, 9.1)_.
