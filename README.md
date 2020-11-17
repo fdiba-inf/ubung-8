@@ -23,7 +23,16 @@ Betrachten Sie die Klasse _PointDemo_ im Paket _exercise8_.
 Sie enthalten eine main-Methode, die alle Konstruktoren und Methoden der _Point_ Klasse überprüft.
 Ausgabe, wenn für Punkt 3 die Werte _6_ und _9_ in der Konsole eingegeben werden:
 ``` 
-
+Point 1: (0.0, 0.0)
+Point 2: (1.0, 2.0)
+Point 3: (6.0, 9.0)
+Point 4: (6.0, 9.0)
+Point 5: (2.0, 4.0)
+Point 6: (1.0, 2.0)
+Translated point 2: (5.0, 7.0)
+Translated point 6: (5.0, 7.0)
+Point 1 equals point 5: false
+Translated point 1 equals point 5: true
 ``` 
 ## Aufgabe 3. Speicherplatz
 Wie sieht der Speicherplatz nach der Ausführung der main-Methode aus? 
