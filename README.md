@@ -16,7 +16,7 @@ Das Literal _1e-4_ ist gleich zum Literal _0.0001_.
 * **Definition einer Methode _initialize_ zur Eingabe** Sie soll die Eingabe der Attribute in der Konsole organisieren.
 * **Definition einer Methode _translate_ zur Translation** Sie soll die Attribute des Punktes durch Translation ändern.
 
-<img src="https://github.com/fdiba-inf/vorlesung/raw/master/images/exercise8/translation.png" width="200">
+<img src="https://github.com/fdiba-inf/vorlesung/blob/main/images/exercise8/translation.png" width="200">
 
 * **Definition einer Methode _createNewTranslatedPoint_ zur Erstellung eines Punktes durch Translation** Sie soll einen neuen Punkt durch Translation relativ zu diesem Punkt erstellen.
 * **Definition einer Methode _equals_ zum Vergleich zu einem anderen Punkt** Sie vergleicht, ob die Attribute dieses Punktes und die Attribute eines anderen Punktes gleich sind.
